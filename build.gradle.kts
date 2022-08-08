@@ -11,7 +11,6 @@ dependencies {
     constraints {
         api("org.apache.httpcomponents:httpclient:4.5.12")
         api("org.apache.logging.log4j:log4j-core:2.18.0")
-        api("org.apache.logging.log4j:log4j-core:2.18.0")
     }
 }
 
